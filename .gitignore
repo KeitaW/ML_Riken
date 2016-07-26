@@ -1,4 +1,11 @@
-reated by https://www.gitignore.io/api/ipythonnotebook,python
+#created by https://www.gitignore.io/api/ipythonnotebook,python#
+
+.DS_Store
+### Haykin ###
+resources/Haykin09.pdf
+### Figs ###
+*.png
+*.jpg
 
 ### IPythonNotebook ###
 # Temporary data
